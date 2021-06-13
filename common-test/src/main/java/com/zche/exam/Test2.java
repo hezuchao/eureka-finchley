@@ -1,4 +1,4 @@
-package com.zche.server.exam;
+package com.zche.exam;
 
 import java.util.Scanner;
 

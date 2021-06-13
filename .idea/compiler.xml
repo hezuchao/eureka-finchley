@@ -22,7 +22,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">
-      <module name="common-test" target="1.5" />
+      <module name="common-test" target="8" />
       <module name="config-client" target="1.5" />
       <module name="config-server-git" target="1.5" />
       <module name="consul-client" target="1.5" />

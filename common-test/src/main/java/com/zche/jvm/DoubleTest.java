@@ -1,4 +1,4 @@
-package com.zche.server.jvm;
+package com.zche.jvm;
 
 public class DoubleTest {
     public static void main(String[] args) {

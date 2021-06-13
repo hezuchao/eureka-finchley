@@ -1,4 +1,4 @@
-package com.zche.server.exam;
+package com.zche.exam;
 
 public class Test3 {
     public static void main(String[] args) {
